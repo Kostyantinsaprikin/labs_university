@@ -1,0 +1,6 @@
+Audi;Mercedes;BMW;VW;Opel
+Service:0.15;10;8;9;8;7
+Price:0.2;7;6;6;8;10
+Quality material:0.25;9;10;8;7;7
+Security:0.2;9;10;8;8;7
+Variability model:0.2;10;9;10;9;8
